@@ -99,7 +99,7 @@ bash <(curl -L https://tinyurl.com/Alpha-X-QR-CODE)
 
 ### `• Deploy To Heroku 🚀`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/https://github.com/anestishiy/Alpha-X-WA-Bot-Installer-5)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/https://github.com/sadew/Alpha-X-WA-Bot-Installer-5)
 
 > Click the logo to watch Bot tutorial video ✅
 
